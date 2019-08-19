@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ucus_Yolu.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="hemen_yazdir" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Ucus_Yolu_com_siparisyonetimi_servis_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://servis.siparisyonetimi.com/program/Service.svc</Value>
+    </Setting>
+    <Setting Name="cache_secenek" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CacheIfAvailable</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
